@@ -7,7 +7,7 @@
 ## 📞 联系方式
 - **邮箱**： 218995444515.qq.com
 - **电话**： 1595151162511
-- **Github**: [Github||raoxiansheng](https://github.com/wei666hhh/wei666hhh.github.io)
+- **Github**: [Github\|raoxiansheng](https://github.com/wei666hhh/wei666hhh.github.io)
 - **地址**：南京吃饭大学
 
 ## ♐ 个人简历
